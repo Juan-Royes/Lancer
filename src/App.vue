@@ -136,7 +136,7 @@ export default {
         },
       ],
       "header": {
-        "planet": "Elisyum Prime",
+        "planet": "Elysium Prime",
         "year": "5014u",
         "system": "Bodania-2",
         "gate": "Carpathians-Hoverla",
