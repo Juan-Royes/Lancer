@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "Elisyum Prime",
         "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
+        "system": "Bodania-2",
+        "gate": "Carpathians-Hoverla",
+        "ring": "Carpathians-Line",
+        "headerTitle": "Pussy Riot",
+        "headerSubtitle": "Liberator Team",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Alpha-Charlie-Alpha-Bravo",
       },
       "options":{
         "eventsMarkdownPerMission": true
